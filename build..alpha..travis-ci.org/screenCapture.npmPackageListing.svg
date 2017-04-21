@@ -1,0 +1,36 @@
+<svg height="526" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="526" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-21 07:17:27 +0000  2308107 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-21 07:17:27 +0000       61 bytes  AUTHORS.txt</tspan>
+<tspan x="10" y="58">  2.  2017-04-21 07:17:27 +0000     2156 bytes  CHANGES.txt</tspan>
+<tspan x="10" y="74">  3.  2017-04-21 07:17:27 +0000     1085 bytes  LICENSE</tspan>
+<tspan x="10" y="90">  4.  2017-04-21 07:17:27 +0000     4343 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-21 07:17:27 +0000   201702 bytes  indico.io-0.10.0.tgz</tspan>
+<tspan x="10" y="122">  6.  2017-04-21 07:17:27 +0000   403811 bytes  indico.io-0.10.3.tgz</tspan>
+<tspan x="10" y="138">  7.  2017-04-21 07:17:27 +0000    99484 bytes  indico.io-0.9.6.tgz</tspan>
+<tspan x="10" y="154">  8.  2017-04-21 07:17:27 +0000     7641 bytes  lib/custom.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-21 07:17:27 +0000     3413 bytes  lib/image.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-21 07:17:27 +0000     1476 bytes  lib/indico.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-21 07:17:27 +0000     2133 bytes  lib/pdf.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-21 07:17:27 +0000     7437 bytes  lib/services.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-21 07:17:27 +0000     3524 bytes  lib/settings.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-21 07:17:27 +0000     1254 bytes  package.json</tspan>
+<tspan x="10" y="266"> 15.  2017-04-21 07:17:27 +0000    29561 bytes  test/base64.txt</tspan>
+<tspan x="10" y="282"> 16.  2017-04-21 07:17:27 +0000    18824 bytes  test/dog.jpg</tspan>
+<tspan x="10" y="298"> 17.  2017-04-21 07:17:27 +0000    22170 bytes  test/face1.png</tspan>
+<tspan x="10" y="314"> 18.  2017-04-21 07:17:27 +0000    10851 bytes  test/integration/custom.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-21 07:17:27 +0000     1385 bytes  test/integration/imagerecognition.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-21 07:17:27 +0000     7049 bytes  test/integration/images.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-21 07:17:27 +0000     1232 bytes  test/integration/imagetypes.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-21 07:17:27 +0000     1263 bytes  test/integration/pdfs.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-21 07:17:27 +0000     1416 bytes  test/integration/testkeywordsv2.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-21 07:17:27 +0000     2550 bytes  test/integration/testpolitical.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-21 07:17:27 +0000     1938 bytes  test/integration/testsummarization.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-21 07:17:27 +0000    20252 bytes  test/integration/text.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-21 07:17:27 +0000     1420 bytes  test/integration/versioning.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-21 07:17:27 +0000    25100 bytes  test/jpgbase64.txt</tspan>
+<tspan x="10" y="490"> 29.  2017-04-21 07:17:27 +0000     4756 bytes  test/settings.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-21 07:17:27 +0000  1418820 bytes  test/test.pdf</tspan>
+</text>
+</svg>
